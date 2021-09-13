@@ -1,7 +1,7 @@
 const mysql = require('mysql');
 let instance = null;
 const connection = mysql.createConnection({
-    host: ' sql6.freesqldatabase.com',
+    host: 'sql6.freesqldatabase.com',
     user: 'sql6436770',
     password: 'tFeARGI6Z8',
     database: 'sql6436770',
